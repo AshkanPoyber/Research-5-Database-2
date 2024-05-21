@@ -22,6 +22,6 @@
 
 <h3 dir="rtl"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" />  موضوع تحقیق : استاندارد طراحی پایگاه داده برای یک فروشگاه</h3>
 
-<img src="Entityrelationship-diagram-for-a-sales-database.png">
+<img src="Related Diagram.png.png">
 
 <div dir="rtl">
