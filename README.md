@@ -25,3 +25,5 @@
 <img src="Related Diagram.png.png">
 
 <div dir="rtl">
+
+<img src="Related Diagram.png.png">
