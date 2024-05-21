@@ -33,10 +33,13 @@
 <br>
 <br>
 
-<img src="Related Diagram.png">
+
 
 <div dir="rtl">
 
+<div dir="rtl">
 <h3 dir="rtl"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" />  Entity Relationship Diagram For A Sales Database</h3>
 
+<img src="Related Diagram.png">
 
+</div>
